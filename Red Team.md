@@ -53,6 +53,7 @@ The Red Team was able to penetrate `Target 1` retrieve the following confidentia
     - **Exploit Used**
       - Same exploit as Flag 1
       - The second flag was found moving into the /var/www directory while searching for the wp-config.php file. The following commands were used: cd .., ls -ah, cat flag2.txt
+      - 
 ![flag2](Images/flag2.PNG)
   
   - `flag3.txt`: {afc01ab56b50591e7dccf93122770cd2}
